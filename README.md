@@ -41,6 +41,7 @@ It includes account creation, login, personalized data files, and multiple educa
 
 > ⚠️ Note: There are known bugs when writing student subjects using `ofstream` and arrays.  
 > These will be addressed after planned feature implementations and upcoming project iterations.
+> ##
 > 🧍 Missing Physical Data:
 > Physical details (e.g., height,weight and bmi score) are not written into the student's personal .txt file. This issue is under review and will be fixed in future versions.
 
