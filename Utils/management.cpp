@@ -17,7 +17,7 @@ void management(Student &s){
   cout << "Welcome To The School System: " << endl;
   cout << "------------------------------" << endl;
   cout << "1 for Subject Panel: " << endl;
-  cout << "2 for Absnces Panel: " << endl;
+  cout << "2 for Absences Panel: " << endl;
   cout << "3 for Student Card:" << endl;
   cout << "4 for Scholarship Panel: " << endl;
   cout << "5 for Balance Panel: " << endl;
