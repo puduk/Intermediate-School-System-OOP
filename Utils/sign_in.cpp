@@ -30,7 +30,7 @@ void sign_in(Student &s) {
     while (getline(file , line)) {
         if ( line.find("Username:") != string::npos) {
             found_username = line.substr(line.find(":") + 1);
-        }else if (line.find("Pin_number:") != string::npos) {
+        }else if (line.find("Pin:") != string::npos) {
             found_pin_number = stoi(line.substr(line.find(":") + 1));
 
             if (found_pin_number == s.pin_number && found_username == s.username) {
