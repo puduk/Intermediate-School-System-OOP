@@ -8,7 +8,7 @@ It includes account creation, login, personalized data files, and multiple educa
 ## 🧩 Features
 
 ### 🔐 Account System
-- Auto-generated username and PIN
+- User-generated username and PIN
 - Login screen with credential verification
 - Each user has their own `.txt` file to store data
 
@@ -52,8 +52,8 @@ make
 ```
 ### 👤 Account Details – Student Info Entry
 ```
-  Hello users!
- What is your Name: 
+Hello users!
+What is your Name: 
 mert
 What is your Surname: 
 demir
