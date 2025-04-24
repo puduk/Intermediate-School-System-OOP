@@ -24,7 +24,7 @@ It includes account creation, login, personalized data files, and multiple educa
 ### 🧾 File Handling
 - `student.txt` used as global registry  
 - Individual `username.txt` files for per-student data  
-- All file operations handled with `fstream`
+- All file operations handled with `fstream`,`ofstream` and `ifstream`
 
 ### ⚙️ Project Structure
 - Each module in its own `.cpp` / `.hpp` file inside `Utils/`
