@@ -35,6 +35,13 @@ It includes account creation, login, personalized data files, and multiple educa
 
 ## 🖥️ Build & Run
 
+```bash
+mkdir build
+cd build
+cmake ..
+make
+```
+
 ```
 --------------------
 --------------------
