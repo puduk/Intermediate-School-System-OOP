@@ -1,0 +1,5 @@
+Username: puduk
+Password: 123456
+
+// This file is auto-generated after account creation.
+// For structure reference only.
