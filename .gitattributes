@@ -1,0 +1,11 @@
+# Text files normalize to LF (Linux style)
+* text=auto eol=lf
+
+# Treat C++ files as source code
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+
+# UTF-8 encoding suggestion
+*.cpp text working-tree-encoding=UTF-8
+*.hpp text working-tree-encoding=UTF-8
+*.txt text working-tree-encoding=UTF-8
