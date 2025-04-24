@@ -32,6 +32,16 @@ It includes account creation, login, personalized data files, and multiple educa
 - Clean and scalable design
 
 ---
+## 🧠 Developer Note
+
+- All data handling and logic are centralized within `student.cpp` and `student.hpp`.
+- The codebase is designed with a focus on clarity, modularity, and clean architecture.
+- Standard C++ file I/O (`fstream`, `ofstream`, `ifstream`) was used exclusively — no external libraries.
+- This version is fully console-based. A **Qt GUI version** is planned for future development.
+
+> ⚠️ Note: There are known bugs when writing student subjects using `ofstream` and arrays.  
+> These will be addressed after planned feature implementations and upcoming project iterations.
+
 
 ## 🖥️ Build & Run
 
