@@ -200,7 +200,8 @@ With appliying: 908762 Promo Code You Can Activate Your $5000 Scholarship!
 > 📌 These are real runtime outputs from the CLI. Each panel is written in a modular `.cpp/.hpp` structure inside `Utils/`.
 
 
-## 📄 License
+## 🪪 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE) © 2025 [puduk](https://github.com/puduk)
+
 
